@@ -7,3 +7,5 @@ THis list of changes
 are related to Architecural change
 Other type of changes
 that I include
+More changes
+are included
